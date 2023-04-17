@@ -2,6 +2,4 @@
 
 ✔ Stack
 Python
-Kotlin
-
 
