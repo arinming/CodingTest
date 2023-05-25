@@ -13,7 +13,6 @@ def Calc2(num1) :
     ans = 0
     for i in range(1, num1 + 1) :
         count = Calc1(num1, i)
-        print(count)
         if count != 0 and count % 2 == 0 :
                 ans += 1
     print(ans)
