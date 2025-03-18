@@ -1,3 +1,5 @@
+package LV1
+
 class Solution {
     fun solution(array: IntArray, commands: Array<IntArray>): IntArray {
         var answer = mutableListOf<Int>()
@@ -21,5 +23,5 @@ fun main() {
             intArrayOf(1, 7, 3)
         )
     )
-    println(answer.joinToString(", "))  // 예상 출력: 5, 6, 3
+    println(answer.joinToString(", "))
 }
