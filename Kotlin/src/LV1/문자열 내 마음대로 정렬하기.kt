@@ -1,3 +1,5 @@
+package LV1
+
 class SortStrings {
     fun solution(strings: Array<String>, n: Int): Array<String> {
         var answer = arrayOf<String>()
