@@ -1,4 +1,4 @@
-package LV2
+package 프로그래머스.LV2
 
 fun solution(numbers: IntArray, target: Int): Int {
     var answer = 0

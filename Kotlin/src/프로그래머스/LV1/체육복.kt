@@ -1,4 +1,4 @@
-package LV1
+package 프로그래머스.LV1
 
 class 체육복 {
     fun solution(n: Int, lost: IntArray, reserve: IntArray): Int {

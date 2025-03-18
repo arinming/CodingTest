@@ -1,4 +1,4 @@
-package LV1
+package 프로그래머스.LV1
 
 class Solution {
     fun solution(array: IntArray, commands: Array<IntArray>): IntArray {
